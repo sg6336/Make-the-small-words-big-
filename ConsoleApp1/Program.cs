@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Kata.SmallWordHelper("The quick brown fox jumps over the lazy dog");
+            //Kata.SmallWordHelper("The quick brown fox jumps over the lazy dog");
         }
     }
 
